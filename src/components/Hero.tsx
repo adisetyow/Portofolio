@@ -110,7 +110,8 @@ const Hero: React.FC = () => {
           </motion.div>
 
           <motion.div
-            className="hidden md:block md:w-2/5"
+            // className="hidden md:block md:w-2/5"
+            className="w-full md:w-2/5 mt-8 md:mt-0"
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.8, delay: 0.2 }}
@@ -120,7 +121,7 @@ const Hero: React.FC = () => {
               <div className="relative bg-background-secondary rounded-2xl p-6 h-[450px] overflow-hidden">
                 <div className="h-full w-full flex items-center justify-center">
                   <img
-                    src="/assets/img/1.jpg"
+                    src="/assets/img/1.webp"
                     alt="Adi Setyo Wenang"
                     className="rounded-xl object-cover h-full w-full"
                   />
