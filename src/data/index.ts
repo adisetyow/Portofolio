@@ -33,7 +33,7 @@ export const projects: Project[] = [
     title: "Aplikasi Pemesanan Tiket Kereta Api",
     description:
       "Aplikasi full-stack berbasis web untuk pemesanan tiket kereta api dengan arsitektur microservices.",
-    image: "/assets/img/tiket-kereta.PNG",
+    image: "/assets/img/tiket-kereta.png",
     category: "Web Development",
     technologies: ["React.js", "Node.js", "Express.js", "MySQL"],
     github: "https://github.com/adisetyow/BE_FE-Kereta-Api.git",
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     title: "Aplikasi Mobile Tunas Mandiri",
     description:
       "Aplikasi mobile berbasis Flutter untuk komunitas pemuda desa Tunas Mandiri. Saat ini sudah mendukung fitur login dan tampilan dashboard sebagai dasar pengembangan lebih lanjut.",
-    image: "/assets/img/mobile-tm.PNG",
+    image: "/assets/img/mobile-tm.png",
     category: "Mobile Development",
     technologies: ["Figma", "User Flow", "Prototyping"],
     github: "https://github.com/adisetyow/Flutter-Login.git",
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     title: "Desain UI/UX Aplikasi Pencarian Tim Olahraga",
     description:
       "Merancang UI/UX aplikasi untuk pencarian tim, penjadwalan sparing, dan pemesanan lapangan, dari konsep hingga prototipe di Figma.",
-    image: "/assets/img/figma-olahraga.PNG",
+    image: "/assets/img/figma-olahraga.png",
     category: "UI/UX Design",
     technologies: ["Figma", "User Flow", "Prototyping"],
     github: "",
